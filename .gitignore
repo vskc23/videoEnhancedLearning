@@ -1,0 +1,26 @@
+# Ignore input videos but keep the structure
+input/videos/*
+!input/videos/.gitkeep
+
+# Ignore output files but keep the structure
+output/**
+!output/audio/.gitkeep
+!output/logs/.gitkeep
+!output/refined_transcripts/.gitkeep
+!output/transcripts/.gitkeep
+!output/video_segments/.gitkeep
+
+# Ignore local config files
+config/config.ini
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore virtual environments
+venv/
+.env/
