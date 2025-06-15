@@ -1,5 +1,5 @@
 
-# **VIDIQ - Video Query Processing System**
+# **Bite Sized Video Enhanced Learning**
 
 ## **Overview**
 
